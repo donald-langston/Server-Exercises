@@ -1,0 +1,23 @@
+{
+  "name": "Server-Exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donald-langston/Server-Exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donald-langston/Server-Exercises/issues"
+  },
+  "homepage": "https://github.com/donald-langston/Server-Exercises#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
